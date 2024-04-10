@@ -1,1 +1,0 @@
-/usr/bin/cc   -rdynamic CMakeFiles/mic_array.dir/src/hq_malloc.c.o CMakeFiles/mic_array.dir/src/hq_tx_2mic_ns.c.o CMakeFiles/mic_array.dir/src/kiss_fft.c.o CMakeFiles/mic_array.dir/src/kiss_fftr.c.o CMakeFiles/mic_array.dir/src/main.c.o  -o mic_array  -lm 

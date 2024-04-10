@@ -1,0 +1,27 @@
+[
+{
+  "directory": "A:/cproject/Differential-Microphone-Arrays/build",
+  "command": "E:/MinGW/mingw64/bin/gcc.exe  @CMakeFiles/mic_array.dir/includes_C.rsp -g -o CMakeFiles/mic_array.dir/src/hq_malloc.c.obj -c A:/cproject/Differential-Microphone-Arrays/src/hq_malloc.c",
+  "file": "A:/cproject/Differential-Microphone-Arrays/src/hq_malloc.c"
+},
+{
+  "directory": "A:/cproject/Differential-Microphone-Arrays/build",
+  "command": "E:/MinGW/mingw64/bin/gcc.exe  @CMakeFiles/mic_array.dir/includes_C.rsp -g -o CMakeFiles/mic_array.dir/src/hq_tx_2mic_ns.c.obj -c A:/cproject/Differential-Microphone-Arrays/src/hq_tx_2mic_ns.c",
+  "file": "A:/cproject/Differential-Microphone-Arrays/src/hq_tx_2mic_ns.c"
+},
+{
+  "directory": "A:/cproject/Differential-Microphone-Arrays/build",
+  "command": "E:/MinGW/mingw64/bin/gcc.exe  @CMakeFiles/mic_array.dir/includes_C.rsp -g -o CMakeFiles/mic_array.dir/src/kiss_fft.c.obj -c A:/cproject/Differential-Microphone-Arrays/src/kiss_fft.c",
+  "file": "A:/cproject/Differential-Microphone-Arrays/src/kiss_fft.c"
+},
+{
+  "directory": "A:/cproject/Differential-Microphone-Arrays/build",
+  "command": "E:/MinGW/mingw64/bin/gcc.exe  @CMakeFiles/mic_array.dir/includes_C.rsp -g -o CMakeFiles/mic_array.dir/src/kiss_fftr.c.obj -c A:/cproject/Differential-Microphone-Arrays/src/kiss_fftr.c",
+  "file": "A:/cproject/Differential-Microphone-Arrays/src/kiss_fftr.c"
+},
+{
+  "directory": "A:/cproject/Differential-Microphone-Arrays/build",
+  "command": "E:/MinGW/mingw64/bin/gcc.exe  @CMakeFiles/mic_array.dir/includes_C.rsp -g -o CMakeFiles/mic_array.dir/src/main.c.obj -c A:/cproject/Differential-Microphone-Arrays/src/main.c",
+  "file": "A:/cproject/Differential-Microphone-Arrays/src/main.c"
+}
+]

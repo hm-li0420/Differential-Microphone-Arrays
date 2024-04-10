@@ -8,15 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/lihaoming/TWS/mic_array_version1/src/hdma.c" "CMakeFiles/mic_array.dir/src/hdma.c.o" "gcc" "CMakeFiles/mic_array.dir/src/hdma.c.o.d"
-  "/home/lihaoming/TWS/mic_array_version1/src/kfc.c" "CMakeFiles/mic_array.dir/src/kfc.c.o" "gcc" "CMakeFiles/mic_array.dir/src/kfc.c.o.d"
-  "/home/lihaoming/TWS/mic_array_version1/src/kiss_fft.c" "CMakeFiles/mic_array.dir/src/kiss_fft.c.o" "gcc" "CMakeFiles/mic_array.dir/src/kiss_fft.c.o.d"
-  "/home/lihaoming/TWS/mic_array_version1/src/kiss_fftnd.c" "CMakeFiles/mic_array.dir/src/kiss_fftnd.c.o" "gcc" "CMakeFiles/mic_array.dir/src/kiss_fftnd.c.o.d"
-  "/home/lihaoming/TWS/mic_array_version1/src/kiss_fftndr.c" "CMakeFiles/mic_array.dir/src/kiss_fftndr.c.o" "gcc" "CMakeFiles/mic_array.dir/src/kiss_fftndr.c.o.d"
-  "/home/lihaoming/TWS/mic_array_version1/src/kiss_fftr.c" "CMakeFiles/mic_array.dir/src/kiss_fftr.c.o" "gcc" "CMakeFiles/mic_array.dir/src/kiss_fftr.c.o.d"
-  "/home/lihaoming/TWS/mic_array_version1/src/main.c" "CMakeFiles/mic_array.dir/src/main.c.o" "gcc" "CMakeFiles/mic_array.dir/src/main.c.o.d"
-  "/home/lihaoming/TWS/mic_array_version1/src/pcm.c" "CMakeFiles/mic_array.dir/src/pcm.c.o" "gcc" "CMakeFiles/mic_array.dir/src/pcm.c.o.d"
-  "/home/lihaoming/TWS/mic_array_version1/src/weights_data.c" "CMakeFiles/mic_array.dir/src/weights_data.c.o" "gcc" "CMakeFiles/mic_array.dir/src/weights_data.c.o.d"
+  "A:/cproject/Differential-Microphone-Arrays/src/hq_malloc.c" "CMakeFiles/mic_array.dir/src/hq_malloc.c.obj" "gcc" "CMakeFiles/mic_array.dir/src/hq_malloc.c.obj.d"
+  "A:/cproject/Differential-Microphone-Arrays/src/hq_tx_2mic_ns.c" "CMakeFiles/mic_array.dir/src/hq_tx_2mic_ns.c.obj" "gcc" "CMakeFiles/mic_array.dir/src/hq_tx_2mic_ns.c.obj.d"
+  "A:/cproject/Differential-Microphone-Arrays/src/kiss_fft.c" "CMakeFiles/mic_array.dir/src/kiss_fft.c.obj" "gcc" "CMakeFiles/mic_array.dir/src/kiss_fft.c.obj.d"
+  "A:/cproject/Differential-Microphone-Arrays/src/kiss_fftr.c" "CMakeFiles/mic_array.dir/src/kiss_fftr.c.obj" "gcc" "CMakeFiles/mic_array.dir/src/kiss_fftr.c.obj.d"
+  "A:/cproject/Differential-Microphone-Arrays/src/main.c" "CMakeFiles/mic_array.dir/src/main.c.obj" "gcc" "CMakeFiles/mic_array.dir/src/main.c.obj.d"
   )
 
 # Targets to which this target links.
