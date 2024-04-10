@@ -20,8 +20,8 @@ int main(int argc, char **argv)
 		sample_rate = atoi(argv[4]);
 	}
 	else{
-		fprintf(stderr, "\n");
-		exit(1);mic_array mic0.pcm mic1.pcm output.pcm sample_rate
+		fprintf(stderr, "mic_array mic0.pcm mic1.pcm output.pcm sample_rate\n");
+		exit(1);
 	}
 	int frame_len =(sample_rate * 15) / 1000;
 
