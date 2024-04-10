@@ -1,0 +1,3 @@
+/mnt/e/work/shenda_code/BF/mic_array/CMakeFiles/rebuild_cache.dir
+/mnt/e/work/shenda_code/BF/mic_array/CMakeFiles/edit_cache.dir
+/mnt/e/work/shenda_code/BF/mic_array/CMakeFiles/mic_array.dir
